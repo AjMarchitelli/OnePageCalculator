@@ -1,3 +1,3 @@
 # OnePageCalculator
 
-Calculator built with HTML CSS and Javascript
+Calculator built with HTML CSS and Javascript.
